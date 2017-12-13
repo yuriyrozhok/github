@@ -25,3 +25,12 @@ Notes about using github
 
 ## Download remote changes from github
 1. "git pull origin master" - pulls commited changes from github to the local repo
+
+## Useful links
+* https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+* https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Git-Fundamentals
+* https://www.visualstudio.com/learn/what-is-git/
+* https://docs.microsoft.com/en-us/vsts/git/tutorial/gitworkflow
+* https://docs.microsoft.com/en-us/vsts/git/share-your-code-in-git-vs-2017
+* https://docs.microsoft.com/en-us/vsts/tfvc/comparison-git-tfvc
+* https://blogs.msdn.microsoft.com/bharry/2017/05/24/the-largest-git-repo-on-the-planet/
