@@ -21,8 +21,7 @@ Notes about using github
 2. "git remote add origin https://github.com/yuriyrozhok/project.git" - binds current local repo to github's repo
 
 ## Stop tracking a file(s)
-git rm -r --cached <file or folder>
-(-r means recursive)
+"git rm -r --cached <file or folder>" - -r means recursive
 
 ## Upload local changes to github
 1. "git push -u origin master" - pushes commited changes from the local repo to github
