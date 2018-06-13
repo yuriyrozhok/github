@@ -30,6 +30,7 @@ Notes about using github
 1. "git pull origin master" - pulls commited changes from github to the local repo
 
 ## Useful links
+* https://guides.github.com/activities/hello-world
 * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Git-Fundamentals
 * https://www.visualstudio.com/learn/what-is-git/
